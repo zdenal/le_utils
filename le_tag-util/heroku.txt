@@ -24,4 +24,4 @@ Detached|/Error R16 \(Detached\)
 Drain buffer overflow|/Error L10 \(Drain buffer overflow\)
 Tail buffer overflow|/Error L11 \(Tail buffer overflow\)
 PostgreSQL error|/ postgres - - .*ERROR:  /
-
+High Response Time|service>5000
